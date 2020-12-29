@@ -1,7 +1,7 @@
-## DataSciencePython
-# Data Science in Python course files, University of Michigan
+# DataSciencePython
+## Data Science in Python course files, University of Michigan
 
-# In course 5, I use a virtual env, using the following library versions
+## In course 5, I use a virtual env, using the following library versions
 
 Python version: 3.6.2
 
